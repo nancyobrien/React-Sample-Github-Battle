@@ -1,6 +1,6 @@
 var axios = require('axios');
-var id = "YOUR_CLIENT_ID";
-var sec = "YOUR_SECRET_ID";
+var id = "nancyobrien";
+var sec = "063bbb6a9fced095c5bfad4736e541d9270d944b";
 var param = "?client_id=" + id + "&client_secret=" + sec;
 
 
